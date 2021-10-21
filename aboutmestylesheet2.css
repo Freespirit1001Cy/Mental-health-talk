@@ -1,0 +1,61 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  height: auto;
+  width: auto;
+  background-image: url(/Users/ChimiYangchen/Documents/myfirstwebsite/images/bg4.jpeg);
+  background-position: center;
+  background-size: cover;
+  padding-left: 5%;
+  padding-right: 5%;
+  box-sizing: border-box;
+}
+nav{
+  background-color:#fae1dd;
+  height: auto;
+  width: auto;
+
+}
+nav a{
+  background-color: #fae1dd;
+  display: block;
+  padding: 14px 16px;
+  color: black;
+  text-decoration: none;
+  float: right;
+}
+p{
+  font-size: 30px;
+  text-align: justify;
+
+}
+h1{
+  text-align: center;
+  font-size: 40px;
+  padding-top: 10%;
+
+}
+.c1{
+  width: 60%;
+  text-align: center;
+  padding-left: 20%;
+  padding-top: 3%;
+  padding-bottom: 5%;
+}
+
+.menu, .footerbar{
+  background-color: #ffffff;
+  margin: 0;
+  padding: 0px;
+  overflow: hidden;
+}
+
+.menu a, .footerbar a{
+  display: block;
+  padding: 14px 16px;
+  color: black;
+  text-decoration: none;
+  float: left;
+}

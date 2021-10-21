@@ -1,0 +1,143 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  height: auto;
+  width: auto;
+  background-image: url(images/bg3.jpeg);
+  background-position: center;
+  background-size: cover;
+  padding-left: 5%;
+  padding-right: 5%;
+  box-sizing: border-box;
+}
+nav{
+  background-color:#ffb4a2;
+  height: auto;
+  width: auto;
+
+}
+nav a{
+  background-color: #ffb4a2;
+  display: block;
+  padding: 14px 16px;
+  color: black;
+  text-decoration: none;
+  float: right;
+}
+h1{
+  height: 10%;
+}
+#header{
+   width: 100%;
+   height: 0%;
+   padding-bottom: 5%;
+   align-items:center;
+
+}
+
+#image {
+  height: 80%;
+  width: 50%;
+  align-items:center;
+  padding-left: 300px;
+  padding-top: 50px;
+
+}
+#img1{
+  height: 435px;
+  width: 400px;
+  float: left;
+  padding-top: 12%;
+
+}
+#img2{
+  height: 400px;
+  width: 400px;
+  float: left;
+  padding-top: 5%;
+
+}
+#img3{
+  height: 433px;
+  width: 400px;
+  float: left;
+  padding-top: 12%;
+
+
+}
+
+
+
+.central-col{
+  width: 33%;
+  float: left;
+  padding-right: 10%;
+}
+.left-col{
+  width: 33%;
+  float: left;
+}
+.right-col{
+  width: 33%;
+  float: left;
+}
+p{
+  text-align:justify;
+  font-size: 20px;
+  font-family: inherit;
+}
+h1{
+  text-align: center;
+}
+.mid{
+  padding-left: 50px;
+  padding-right: 50px;
+  text-align: justify;
+
+}
+.joingroup{
+  margin-top: 30%;
+  margin-bottom: 2%;
+  padding-top: 15%;
+  text-align: center;
+}
+.myform{
+  padding-bottom: 20px;
+  width: 60%;
+  margin-left: 20%;
+  background-color: #ffddd2;
+  height: 50%;
+  margin-bottom: 20%;
+}
+.input{
+  padding-left: 30%;
+  text-align: justify;
+  box-sizing: border-box;
+  font-size: 30px;
+
+}
+input{
+  background-color: white;
+  width: 20%;
+  height: 20%;
+  margin-top: 20px;
+}
+
+
+.menu, .footerbar{
+  background-color: white;
+  margin: 0;
+  padding: 0px;
+  overflow: hidden;
+}
+
+.menu a, .footerbar a{
+  display: block;
+  padding: 14px 16px;
+  color: black;
+  text-decoration: none;
+  float: left;
+}

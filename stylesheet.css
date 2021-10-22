@@ -5,7 +5,7 @@
 body{
   height: auto;
   width: auto;
-  background-image: url(images/bg2.jpeg);
+  background-image: url(bg2.jpeg);
   background-position: center;
   background-size: cover;
   padding-left: 5%;
@@ -37,7 +37,7 @@ nav a{
 
 }
 .opening{
-  background-image: url(/Users/ChimiYangchen/Documents/myfirstwebsite/images/mentalhealth.png);
+  background-image: url(mentalhealth.png);
   background-size: cover;
   box-sizing: border-box;
   height: 10%;

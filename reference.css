@@ -1,0 +1,42 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  height: auto;
+  width: auto;
+  background-color: #faedcd;
+  background-position: center;
+  background-size: cover;
+  padding-left: 5%;
+  padding-right: 5%;
+  box-sizing: border-box;
+}
+nav{
+  background-color:#d4a373;
+  height: auto;
+  width: auto;
+
+}
+nav a{
+  background-color: #d4a373;
+  display: block;
+  padding: 14px 16px;
+  color: black;
+  text-decoration: none;
+  float: right;
+}
+h1{
+  margin-left: 20%;
+  font-size: 40px;
+  padding-top: 10%;
+
+}
+.reference, li{
+  width: 60%;
+  text-align: left;
+  padding-top: 3%;
+  padding-bottom: 2%%;
+  margin-left: 20%;
+}
